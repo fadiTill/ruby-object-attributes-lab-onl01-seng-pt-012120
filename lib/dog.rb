@@ -10,3 +10,5 @@ end
  def name
  @reads = reads the name of the dog
  end
+
+Dog.new(writes,read)
