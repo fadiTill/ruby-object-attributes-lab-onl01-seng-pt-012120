@@ -8,6 +8,5 @@ def name =
 end
 
  def name
-
-   @reads = reads the name of the dog
+ @reads = reads the name of the dog
  end 
