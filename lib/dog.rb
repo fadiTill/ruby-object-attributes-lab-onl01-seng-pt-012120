@@ -1,5 +1,7 @@
 
-class Dog(writes,read)
+class Dog
+
+  def initialize(writes,read)
 @writes =  writes
 @reads = read
 
