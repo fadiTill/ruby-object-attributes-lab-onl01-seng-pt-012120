@@ -9,3 +9,12 @@ class Person
     @name
   end
 end
+
+
+def name=(person_job)
+  @job = person_jo
+end
+
+def name
+  @job
+end
