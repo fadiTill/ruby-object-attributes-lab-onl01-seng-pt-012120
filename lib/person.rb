@@ -18,4 +18,4 @@ end
 def name
   @job
 end
-end 
+end
