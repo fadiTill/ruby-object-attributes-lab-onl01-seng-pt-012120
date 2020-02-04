@@ -11,11 +11,11 @@ class Person
 end
 
 
-def name=(person_job)
+def job=(person_job)
   @job = person_job
 end
 
-def name
+def job
   @job
 end
 end
