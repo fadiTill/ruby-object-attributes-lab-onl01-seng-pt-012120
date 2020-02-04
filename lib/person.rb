@@ -12,7 +12,7 @@ end
 
 
 def name=(person_job)
-  @job = person_jo
+  @job = person_job
 end
 
 def name
